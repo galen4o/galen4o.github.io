@@ -9,7 +9,7 @@ h1
 .button {
     background-color: #ff0000; /* Green */
     border: none;
-    color: rgb(255, 65, 65);
+    color: grey;
     padding: 28px 28px;
     text-align: center;
     text-decoration: none;
