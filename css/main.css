@@ -6,10 +6,10 @@ h1
 {
     font-size: 40px;
 }
-button {
+.button {
     background-color: #ff0000; /* Green */
     border: none;
-    color:rgb(65, 65, 65);
+    color: rgb(65, 65, 65);
     padding: 28px 28px;
     text-align: center;
     text-decoration: none;
