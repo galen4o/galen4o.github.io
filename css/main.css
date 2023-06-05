@@ -66,11 +66,13 @@ h1
   }
   .product
   {
-    border-style: solid;
+    border: solid;
     width: 400px;
     height: 530px;
     border-color:rgba(123, 123, 123, 0.792);
-    padding: 10px 10px;
+    padding: 15px 15px;
+    padding-bottom: 19px;
+    background-color: rgb(100, 100, 100);
    
 }
 .spacer
@@ -84,6 +86,8 @@ h1
     border-color: rgb(123, 123, 123);
     margin-top: 10px;
     margin-bottom: 10px;
+    background-color: rgb(115, 115, 115);
+
 }
 .background
 {
@@ -115,7 +119,8 @@ h2
     font-weight: bold;
     border-radius: 2px;
     display: inline-block;
-    margin-left: 160px;
+    margin-right: 10px;
+    float: right;
  }
  .buy:hover {
     background-color: #b61d1d;
